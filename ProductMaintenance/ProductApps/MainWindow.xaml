@@ -11,6 +11,8 @@
         <TextBlock Name="totalChargeTextBox" HorizontalAlignment="Left" Height="23" Margin="209,203,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75"/>
         <Label Content="Total Charge after adding &#xA;the wrapping charge ($5)" HorizontalAlignment="Left" Height="43" Margin="48,240,0,0" VerticalAlignment="Top" Width="156"/>
         <TextBlock Name="totalWrapChargeTextBox" HorizontalAlignment="Left" Height="23" Margin="209,251,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Total Charge After GST 10%." Height="23" Width="200" Margin="39,288,286,23"/>
+        <TextBlock Name="TotalGSTTextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" Margin="234,285,241,26"/>
         <TextBlock Name="totalPaymentTextBlock" HorizontalAlignment="Left" Height="23" Margin="164,167,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75"/>
         <TextBox Name="productTextBox" HorizontalAlignment="Left" Height="24" Margin="122,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="96"/>
         <TextBox Name="priceTextBox" HorizontalAlignment="Left" Height="24" Margin="122,78,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="77"/>
